@@ -1,0 +1,14 @@
+﻿  Arcanoid.c
+C:\CommonFolder\Examples\Arcanoid\Arcanoid\Arcanoid_types.h(15,31): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\CommonFolder\Examples\Arcanoid\Arcanoid\Arcanoid.c(75,24): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\CommonFolder\Examples\Arcanoid\Arcanoid\Arcanoid.c(75,39): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\CommonFolder\Examples\Arcanoid\Arcanoid\Arcanoid.c(78,24): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\CommonFolder\Examples\Arcanoid\Arcanoid\Arcanoid.c(78,39): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\CommonFolder\Examples\Arcanoid\Arcanoid\Arcanoid.c(28,7): warning C4101: 'c': unreferenced local variable
+C:\CommonFolder\Examples\Arcanoid\Arcanoid\Arcanoid.c(24,7): warning C4101: 'p_level': unreferenced local variable
+  Generating code
+  Finished generating code
+  2 of 18 functions (11.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Arcanoid.vcxproj -> C:\CommonFolder\Examples\Arcanoid\x64\Release\Arcanoid.exe

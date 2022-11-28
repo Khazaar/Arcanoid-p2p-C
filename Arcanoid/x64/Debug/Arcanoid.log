@@ -1,0 +1,9 @@
+﻿  arcanoid.c
+C:\CommonFolder\Examples\Arcanoid\Arcanoid\arcanoid.c(29,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\CommonFolder\Examples\Arcanoid\Arcanoid\arcanoid.c(72,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CommonFolder\Examples\Arcanoid\Arcanoid\arcanoid.c(85,18): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\CommonFolder\Examples\Arcanoid\Arcanoid\arcanoid.c(85,55): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\CommonFolder\Examples\Arcanoid\Arcanoid\arcanoid.c(190,42): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\CommonFolder\Examples\Arcanoid\Arcanoid\arcanoid.c(190,57): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\CommonFolder\Examples\Arcanoid\Arcanoid\arcanoid.c(154,7): warning C4101: 'c': unreferenced local variable
+  Arcanoid.vcxproj -> C:\CommonFolder\Examples\Arcanoid\x64\Debug\Arcanoid.exe
