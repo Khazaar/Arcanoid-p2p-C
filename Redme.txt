@@ -1,3 +1,0 @@
-Refactoring:
-- all types moved to arcanoid_types.h;
-- 
